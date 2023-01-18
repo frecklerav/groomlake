@@ -1,1 +1,1 @@
-Update Twitter icon in Docs (#7711)
+Update Docs Home and Neural Magic pages (#7243)
