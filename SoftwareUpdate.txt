@@ -1,1 +1,1 @@
-ultralytics 8.1.27 batched tracking fixes (#8842)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
