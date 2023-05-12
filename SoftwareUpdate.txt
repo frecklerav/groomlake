@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Fix RTDETR generate anchor grid out of boundary (#7247)
